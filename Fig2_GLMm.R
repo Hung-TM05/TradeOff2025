@@ -1,4 +1,3 @@
-setwd('/Users/tmhung/Library/CloudStorage/OneDrive-個人/ESSLAB/1. Manuscript/1. Trade-off/0. Nature EE format/Final codes')
 library(dplyr)
 library(vegan)
 library(lme4)
