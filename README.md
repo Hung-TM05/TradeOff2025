@@ -4,7 +4,7 @@ This repository has the codes and data for the manuscript "Trade-offs between he
 
 Each folder/file name is corresponding to the number of figures.
 
-For empirical analysis data, see "Empirical_moth_data.csv"; 
-</br>For the analysis data sets of Figures 5 and Supplementary figure 6, which the results of the analysis using the open database, are contained in the folders of "Fig5_GlobTherm" and "FigS6_Topt", respectively. 
+For **empirical analysis data**, use "_Empirical_moth_data.csv_"; 
+</br>For the analysis data sets of **Figure 5** and **Supplementary figure 6**, which the results of the analysis using the open database, are contained in the folders of "_Fig5_GlobTherm_" and "_FigS6_Topt_", respectively. 
 
 If you have any questions, please contact corresponding author of the manuscript.
